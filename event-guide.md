@@ -1,4 +1,4 @@
-This is a guide to organizing Baltimore Heritage programs, currently outlined by the type of program.
+This is a guide to organizing Baltimore Heritage programs/events, currently outlined by the type of program.
 
 # Walking Tours
 
