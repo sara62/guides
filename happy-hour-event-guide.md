@@ -57,13 +57,13 @@ Happy hours are a great way to make new friends but the best way to get someone 
 - Try to introduce people to others to promote a friendly conversation
 - Thank people as they leave
 
-## If you are organizing a program...
-	- ...before the happy hour, make sure a volunteer goes to the venue early to greet anyone who is not attending the program
-	- ...during the happy hour, try to start the program early enough in the evening that people are still arriving, not leaving
+## If you are organizing a program with the happy hour (e.g. walk, tour, talk, presentation)
+- before the happy hour, make sure a volunteer goes to the venue early to greet anyone who is not attending the program
+- during the happy hour, try to start the program early enough in the evening that people are still arriving, not leaving
 
 ## At the end of the evening
-	- If it is a bar, let any remaining attendees know that you are leaving but they are welcome to stay. Thank the bartender or owner.
-	- If it is a historic site, let any remaining attendees know they need to leave. Help clean-up. Thank the owner or host.
+- If it is a bar, let any remaining attendees know that you are leaving but they are welcome to stay. Thank the bartender or owner.
+- If it is a historic site, let any remaining attendees know they need to leave. Help clean-up. Thank the owner or host.
 		
 # After the happy hour!
 - Send thank you email to venue
