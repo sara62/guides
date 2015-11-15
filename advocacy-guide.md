@@ -2,12 +2,24 @@ The purpose of this advocacy guide is to document our the approaches that we use
 
 # What is advocacy?
  
- According a helpful [overview by Independent Sector](https://www.independentsector.org/advocacy) nonprofit advocacy is a broad term covering a range of activities that seek to bring about systemic social change. These activities include
+One helpful [overview by Independent Sector](https://www.independentsector.org/advocacy) described nonprofit advocacy as a broad term covering a range of activities that seek to bring about systemic social change.
 
-- Lobbying: attempts to influence specific legislation through direct or grassroots communications with legislators or their staf
-- Issue organizing
-- Nonpartisan voter engagement
-- Executive branch activities
+# Legal issues for nonprofit advocacy
+
+Source: [National Recreation and Parks Association](http://www.nrpa.org/content.aspx?id=125)
+
+As a 501(c)(3) we can: 
+
+- Publish and distribute a voting record that lists pieces of legislation, describes it, and notes how a member voted,
+- Inform candidates of your position on issues and urge them to support your interests,
+- Host a public forum to allow candidates to discuss their views on subjects of interest to the organization, and
+- Distribute position papers to the general public and your members.
+
+As a 501(c)(3) we cannot: 
+
+- Work for or against the election of a candidate, or endorse or oppose a particular candidate;
+- Direct financial contributions to a candidate, political party, or political action committee (PAC), or provide in-kind 
+contributions to a candidate, political party, or PAC.
 
 # What is the role of advoacy in historic preservation?
 
