@@ -11,15 +11,24 @@ The purpose of this advocacy guide is to document our the approaches that we use
 
 # What is the role of advoacy in historic preservation?
 
+Note: please add some definition or clarification of terms: resources, properties, issues, etc.
+
+What are we advocating for?
+
+- heritage resources with documented historical significance and integrity
+  - resources: buildings, landscapes, artworks, public spaces, etc.
+  - significance: resources that are important at a neighborhood, citywide, statewide or national level
+  - integrity: property, block, district
+
 There are a variety of preservation issues that require advocacy:
 
-- Issues related to private property owners with regard to a specific property/group of properties
+- Issues related to private property owners with regard to a historic resource or group of resources
 - Issues related to a type of property and a related issue experienced by multiple private property owners
 - Issues related to instutional property owners (hospitals, universities, etc.) and properties they hold
 - Public policy issues related to development, design and planning
 - Public policy issues related to funding and incentives
 
-# How does Baltimore Heritage approach advocacy?
+# How does Baltimore Heritage make decisions about advocacy?
 
 Our approach to advoacy involves coordination and communications between a variety of individuals and organizations including:
 
@@ -31,11 +40,7 @@ Our approach to advoacy involves coordination and communications between a varie
 
 Our advocacy often includes significant components of education, technical assistance and capacity building but those are not the focus of this guide. We are developing a separate guide on education and technical assistance.
 
-Our approach to advocacy includes:
-
-- Attending community meetings to discuss preservation issues
-- Testifying at public hearings to voice our position on preservation issues
-- Sharing information on preservation issues through our website and social media
+Our organization cannot take action on an issue without adequate documentation and background information. Often time is required to collect, review and distribute information to staff, board members and partners making it difficult to respond to advocacy issues immediately.
 
 # How do we identify advocacy issues?
 
@@ -48,9 +53,28 @@ There are several common ways that Baltimore Heritage identifies advocacy issues
 
 Sometimes these contacts are made directly to Baltimore Heritage staff. In other cases, a concerned resident or community organization might contact a Baltimore Heritage board member or volunteer who then refers the question to our staff for us to investigate.
 
+Here is our advice to neighborhood partners looking for Baltimore Heritage support on an advocacy issue:
+
+- Explain your role and interest in the issue
+- Explain why you think Baltimore Heritage can be helpful with the issue
+- Identify who Baltimore Heritage should contact and why that person/organization has been identified. Make sure to indicate your preffered method of communication, e.g. email, phone, etc.
+
+## Start with these questions:
+
+- What is the issue? Is it related to any broader issues we’ve identified, e.g. religious buildings, vacant housing, vacant industrial buildings?	
+- What resources are affected by the issue? Is it a single building? A neighborhood? A set of buildings of a similar type?	
+- What is the significance of these resources? Historical and architectural significance? Community significance? Why does this place matter?
+- How can we address this issue? Is it possible to save the building in the near-term through new funding, a new use or new legal protections? If not, is is possible to stabilize and secure the building to protect from fire and vandalism?
+
+Note: we can rarely answer all of these questions at the start of a project!
+
 # How do we research advocacy issues?
 
-The first step in any advocacy issue is getting a clear understanding of what the issue may be.
+The first step in any advocacy issue is getting a clear understanding of what the issue may be. Typically we need the following information:
+
+- description on the status of the affected historic resource
+- the nature of the action or condition that threatens its preservation
+- possible preservation options. 
 
 If an issue involves a specific property, we seek answers to these questions: 
 
@@ -59,16 +83,51 @@ If an issue involves a specific property, we seek answers to these questions:
 - How large is the site (acreage) and the property (interior square footage)?
 - How is the property zoned?
 
+If the issue is subject to some kind of regulatory review, we seek answers to these questions:
+
+- Does the Maryland Historical Trust have any jurisdiction over this issue?
+- Does the Baltimore Commission for Historical and Architectural Preservation have any jurisdiction over this issue?
+- If so, what is the status of their review?
+- Is this an issue that may benefit from consulting with a subject matter expert?
+
 # How do we keep track of advocacy issues?
+
+## Issue and resource information systems
 
 - Trello board
 - Website
 - Map
 
+## Contact relationship management
+
+If we hear about a resident-led effort to save a building, add any contacts from that effort to our contacts in CiviCRM.
+
+- An informal effort could be just tracked with a tag indicating the interest of a set of contacts in a certain issue or building.
+- If the effort is led by an organization, the contacts could be associated with that organization using a “Member of Committee” Relationship (haven’t created this yet - still exploring options).
+
+
 # How do we plan advocacy campaigns?
 
 - What are our goals?
 - Who is our audience?
+- What is our ask?
+
+Here are the steps at the beginning of a campaign:
+
+- Identify the location of the issue, including the address, City Council district, block/lot, neighborhood, etc.
+- Start a list of potential interest contacts, e.g. nearby schools/churches, neighborhood associations, ethnic or fraternal groups, etc.
+- Research the history of the resource and compile a chronologically organized history with citations. This initial report can be used as the basis for interpretation, documentation with an MIHP form or designation as a local or National Register landmark.
+- Craft a message about the importance of the place. This is the elevator pitch for why a building is worth saving and what needs to be done to save it.
+- Make a plan for distributing the message - does it involve public programs, email blasts, a blog post, social media etc.
+
+## Common tactics for preservation advocacy
+
+Our approach to advocacy includes:
+
+- Attending community meetings to discuss preservation issues
+- Testifying at public hearings to voice our position on preservation issues
+- Sharing information on preservation issues through our website and social media
+- Campaigns to encourage people to contact elected officials
 
 # Related Resources
 
