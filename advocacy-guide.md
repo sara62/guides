@@ -143,28 +143,31 @@ Our approach to advocacy includes:
 
 # Related Resources
 
-## Independent Sector
+## Lobbying
 
-[Building a Successful Advocacy Effort](https://www.independentsector.org/building_a_successful_advocacy_effort)
+Independent Sector: [Building a Successful Advocacy Effort](https://www.independentsector.org/building_a_successful_advocacy_effort)
 
 > Learn about the components of Building a Successful Advocacy Effort in this five-part webinar series designed by Independent Sector, in partnership with the Center for Evaluation Innovation. The webinars examine measuring the effectiveness of advocacy strategies, building internal capacity, adapting to changes in the political climate, creating effective coalitions, and using communications to enhance advocacy efforts.
 
-[Advocacy Resources: Profiles, Fact Sheets and Leave Behinds](https://www.independentsector.org/advocacy_resources)  
+Independent Sector: [Advocacy Resources: Profiles, Fact Sheets and Leave Behinds](https://www.independentsector.org/advocacy_resources)  
 
-> Download these helpful resources and talking points to use when connecting with policymakers.
-  
-[The Nonprofit Lobbying Guide: Second Edition](https://www.independentsector.org/lobby_guide)
+Independent Sector: [The Nonprofit Lobbying Guide: Second Edition](https://www.independentsector.org/lobby_guide)
 
 > Written in 1999 by Bob Smucker and published by Independent Sector, The Nonprofit Lobbying Guide demonstrates the many ways charitable organizations can use lobbying to advance their causes in federal, state, and local legislatures. This guide to advocacy is essential for organizations already engaged in policy work and an invaluable resource for those that want to get started.
 
-Preparing Successful Lobbying Materials
-Making your Case with Handouts
+Preservation Action: [Preparing Successful Lobbying Materials](http://www.preservationaction.org/action/successful-materials/)
 
-Handouts, leave-behinds, and one-pagers help you paint a picture of the impact federal policy makes at the local level, an impact that is critical to illustrate during advocacy at the state and federal level. When you meet with a representative you will relatively little time to make your case and need to focus on specific points and asks during that time, so consider assembling a briefing book as a critical complement to your visit that your representative and their staff can reference when needed.
-
-## Preservation Action
-
-[Preparing Successful Lobbying Materials](http://www.preservationaction.org/action/successful-materials/)
-
->Making your Case with Handouts
 >Handouts, leave-behinds, and one-pagers help you paint a picture of the impact federal policy makes at the local level, an impact that is critical to illustrate during advocacy at the state and federal level. When you meet with a representative you will relatively little time to make your case and need to focus on specific points and asks during that time, so consider assembling a briefing book as a critical complement to your visit that your representative and their staff can reference when needed.
+
+## Organizing
+
+- [Wellstone: Resource Library](http://www.wellstone.org/resources)
+- [Organizing for Power, Organizing for Change](http://organizingforpower.wordpress.com/)
+- [Praxis Makes Perfect: Resources for Organizers](https://joshuakahnrussell.wordpress.com/resources-for-activists-and-organizers/)
+- [ReImagining Change](http://www.walkingbutterfly.com/wp-content/uploads/2011/01/smartMeme.ReImaginingChange.pdf) (PDF)
+- [SPIN Works: A Media Guidebook for Communicating Values and Shaping Opinion](http://spinacademy.org/wp-content/uploads/2012/04/SPIN-Works.pdf) (PDF)
+- [Stir It Up: Lessons in Community Organizing and Advocacy](https://chisineu.files.wordpress.com/2014/08/rinku-sen-stir-it-up-lessons-in-community-organizing-and-advocacy-2003.pdf)
+- [Tools for Organizing a Rally or Demonstration (Part 1): A Workbook for Beginners](http://toolboxfored.org/the-tools/tools-for-organizing-part-1/)
+- [Training for Change: Tools](http://www.trainingforchange.org/tools)
+- [The Goodman Center: Resources](http://www.thegoodmancenter.com/resources/)
+
