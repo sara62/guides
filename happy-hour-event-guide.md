@@ -10,15 +10,15 @@ _This is just our quick thoughts on how we’ve done these events so far! If you
 
 - Recruit a group of 2-3 volunteers to help plan and promote the event	
 - Select a venue (e.g. bar or historic site)
-	- _If a bar_, call the venue to check on the date/time, ask about drink or food specials.
-	- _If a historic site_, make sure to clarify where the group is allowed to drink and eat. Don’t forget to make arrangements for purchasing alcohol.
+  - _If a bar_, call the venue to check on the date/time, ask about drink or food specials.
+  - _If a historic site_, make sure to clarify where the group is allowed to drink and eat. Don’t forget to make arrangements for purchasing alcohol.
 - Select a date and time
-	- Check dates with the Baltimore Heritage program calendar or other partner calendars to avoid direct conflicts with existing scheduled programs.
+  - Check dates with the Baltimore Heritage program calendar or other partner calendars to avoid direct conflicts with existing scheduled programs.
 - Write a short description of the happy hour
-	- Include parking, transit, drink specials and a bit of history. The description should be 3-6 sentences and use a friendly, informal voice.
+  - Include parking, transit, drink specials and a bit of history. The description should be 3-6 sentences and use a friendly, informal voice.
 - Plan any additional programs for the happy hour
-	- Past programs have included short walking tours, short presentations, or an opportunity to talk with a special group of visitors
-	- Programs are a good opportunity for partnership, e.g. the happy hour could precede or follow some other event or highlight a project/exhibit/campaign by a partner group
+  - Past programs have included short walking tours, short presentations, or an opportunity to talk with a special group of visitors
+  - Programs are a good opportunity for partnership, e.g. the happy hour could precede or follow some other event or highlight a project/exhibit/campaign by a partner group
 - Set up form for RSVPs or ticket sales
 - Print registration sheet shortly before the event
 
@@ -28,7 +28,11 @@ Many professional happy hour programs avoid Friday evening or weekend evenings s
 
 ## Selecting a venue
 
-The happy hours are most successful when the space feels full but not crowded and the noise level is low enough to allow for conversation. Some venues - e.g. Brewer’s Art, Joe Squared - were too loud for a successful happy hour! Others - e.g. J. Patrick’s - had few patrons other than our group making the event feel less full or active than it otherwise might. If a bar is willing to provide a separate space for our group - e.g. second floor or back room - make sure to have a clear understanding of how many people they expect to attend if they are providing service staff.
+The happy hours are most successful when the space feels full but not crowded and the noise level is low enough to allow for conversation.
+
+- Some venues - e.g. Brewer’s Art, Joe Squared - were too loud for a successful happy hour!
+- Others - e.g. J. Patrick’s - had few patrons other than our group making the event feel less full or active than it otherwise might.
+- If a bar is willing to provide a separate space for our group - e.g. second floor or back room - make sure to have a clear understanding of how many people they expect to attend if they are providing service staff.
 
 # Promoting the happy hour
 
@@ -44,12 +48,12 @@ Happy hours are a great way to make new friends but the best way to get someone 
 # During the happy hour
 
 ## Bring supplies
-	- name tags and sharpies	
-	- registration sheet
-	- change envelope with cash - if attendee payment is required
-	- sign-up sheet for email list
-	- any additional flyers or hand-outs
-	- any supplies needed for programs - e.g. projector, loudspeaker
+- name tags and sharpies	
+- registration sheet
+- change envelope with cash - if attendee payment is required
+- sign-up sheet for email list
+- any additional flyers or hand-outs
+- any supplies needed for programs - e.g. projector, loudspeaker
 
 ## General recommendations
 - Welcome people as they arrive and introduce volunteers and organizers
